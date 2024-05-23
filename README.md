@@ -2,7 +2,7 @@
 
 Meu nome é Leticia Sylva
 
-- Estou estudando na [Alura](https;
+- Estou estudando na [Alura](https;www.Alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
